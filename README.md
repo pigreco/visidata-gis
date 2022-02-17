@@ -2,6 +2,20 @@
 
 Come pulire e filtrare un CSV di 3M di righe per uso GIS
 
+<!-- TOC -->
+
+- [visidata-gis](#visidata-gis)
+  - [Come nasce il tutto](#come-nasce-il-tutto)
+  - [Link alle risorse](#link-alle-risorse)
+  - [Descrizione problema](#descrizione-problema)
+  - [Soluzione adottata](#soluzione-adottata)
+  - [Relatori](#relatori)
+  - [Live su onData](#live-su-ondata)
+  - [Programma](#programma)
+  - [Riferimenti utili](#riferimenti-utili)
+
+<!-- /TOC -->
+
 ## Come nasce il tutto
 
 Nasce da una domanda sul [Gruppo Telegram di QGIS Italia](https://t.me/qgis_it)
@@ -17,7 +31,7 @@ Nasce da una domanda sul [Gruppo Telegram di QGIS Italia](https://t.me/qgis_it)
 
 Il file della `matrice delle distanze` della Calabria (calabria.txt) ha quasi 3.000.000 di righe e risulta ingestibile sia da QGIS che da altri software (excel, NotePad++). 
 
-Il File ha dei problei da risolvere come:
+Il File ha dei problemi da risolvere come:
 
 1. pulizia;
 2. filtro. 
@@ -26,18 +40,23 @@ Il File ha dei problei da risolvere come:
 
 ![](./imgs/visidata.png)
 
+## Relatori
+
+- 🧔 [Andrea Borruso](https://twitter.com/aborruso)
+- 👨‍🦲 [Totò Fiandaca](https://twitter.com/totofiandaca)
+
 ## Live su onData
 
-- data: 📅
-- ore: 🕞 1 ora
-- piattaforma YouTube : 📽
-- link diretta : 🔗
+- 📅 data: 
+- 🕞 ore:  1 ora
+- 📽 piattaforma YouTube : 
+- 🔗 link diretta : 
 
 ## Programma
 
-1. Introduzione a VisiData (Andrea Borruso);
-2. Esempio d'uso di VisiData su dati Calabria (Totò Fiandaca):
-   1. apertura file con VisiData;
+1. Introduzione a **VisiData** (Andrea Borruso);
+2. Esempio d'uso di **VisiData** su dati Calabria (Totò Fiandaca):
+   1. apertura file con **VisiData**;
    2. pulizia (togliere `,00` e da `,` a `.`);
    3. filtro usando il campo **origine** (`Origine >= 78000`);
 3. Domande/risposte (Totò Fiandaca, Andrea Borruso);
@@ -45,10 +64,10 @@ Il File ha dei problei da risolvere come:
 
 ## Riferimenti utili
 
-- VisiData : <https://github.com/saulpw/visidata>
-- guida italiana VisiData : <https://ondata.github.io/guidaVisiData>
-- ISTAT shapefile : <https://www.istat.it/it/archivio/222527> 
-- ISTAT matrice distanze : <https://www.istat.it/it/archivio/157423>
+- **VisiData**: <https://github.com/saulpw/visidata>
+- **Guida italiana VisiData**: <https://ondata.github.io/guidaVisiData>
+- **ISTAT shapefile**: <https://www.istat.it/it/archivio/222527> 
+- **ISTAT matrice distanze**: <https://www.istat.it/it/archivio/157423>
 
 
 
