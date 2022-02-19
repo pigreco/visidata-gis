@@ -1,5 +1,7 @@
 # visidata-gis
 
+![](./imgs/visidata-bn.png)
+
 Come pulire e filtrare un CSV di 3M di righe per uso GIS
 
 <!-- TOC -->
@@ -47,8 +49,8 @@ Il File ha dei problemi da risolvere come:
 
 ## Live su onData
 
-- 📅 data: 
-- 🕞 ore:  1 ora
+- 📅 data: 4 o 11 marzo 2022
+- 🕞 ore: 17:30 - 18:30
 - 📽 piattaforma YouTube : 
 - 🔗 link diretta : 
 
