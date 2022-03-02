@@ -14,7 +14,8 @@ Come pulire e filtrare un CSV di 3M di righe per uso GIS
   - [Relatori](#relatori)
   - [Live su OpenDataSicilia](#live-su-opendatasicilia)
   - [Programma](#programma)
-  - [Riferimenti utili](#riferimenti-utili)
+  - [Risultati Live](#risultati-live)
+- [Riferimenti utili](#riferimenti-utili)
 
 <!-- /TOC -->
 
@@ -27,6 +28,8 @@ Come pulire e filtrare un CSV di 3M di righe per uso GIS
 2. Domanda su Facebook Gruppo [GIS Italia](https://www.facebook.com/groups/GisItalia/posts/10160017122146385/)
 
 ![](./imgs/facebook.png)
+
+↑ [Torna su](#visidata-gis) ↑
 
 ## Link alle risorse
 
@@ -59,22 +62,26 @@ Come pulire e filtrare un CSV di 3M di righe per uso GIS
 
 ![](./imgs/locandina.jpg)
 
+↑ [Torna su](#visidata-gis) ↑
+
 ## Programma
 
 1. Introduzione a **VisiData** (Andrea Borruso);
-2. Esempio d'uso di **VisiData** su dati Calabria (Totò Fiandaca):
-   1. apertura file con **VisiData**;
-   2. pulizia (togliere `,00` e da `,` a `.`);
-   3. filtro usando il campo **origine** (`Origine >= 78000`);
-3. Domande/risposte (Totò Fiandaca, Andrea Borruso);
-4. Chiusura (Andrea Borruso);
+2. Esempio d'uso su dati Calabria: pulizia e filtro, per JOIN tabellare (Totò Fiandaca);
+3. Esempio di uso su dati forestali: tabella Melt per Atlas (Totò Fiandaca);
+4. Domande/risposte (Totò Fiandaca, Andrea Borruso);
+5. Chiusura (Andrea Borruso);
 
-## Riferimenti utili
+## Risultati Live
+
+- numero massimo partecipanti: x
+- domande poste
+
+# Riferimenti utili
 
 - **VisiData**: <https://github.com/saulpw/visidata>
 - **Guida italiana VisiData**: <https://ondata.github.io/guidaVisiData>
 - **ISTAT shapefile**: <https://www.istat.it/it/archivio/222527> 
 - **ISTAT matrice distanze**: <https://www.istat.it/it/archivio/157423>
 
-
-
+↑ [Torna su](#visidata-gis) ↑
