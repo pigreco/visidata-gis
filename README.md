@@ -39,7 +39,7 @@ Come pulire e filtrare un CSV di 3M di righe per uso GIS
 
 ## Esempi proposti
 
-1. File della `matrice delle distanze` della Regione Calabria (Calabria.txt), ha quasi 3.000.000 di righe e risulta ingestibile sia da QGIS che da altri software (excel, NotePad++): filtrare e pulire i dati → fare una JOIN tabellare con lo shapefile ISTAT ([QGIS](https://www.qgis.org/it/site/))
+1. File della `matrice delle distanze` della Regione Calabria (Calabria.txt), ha quasi 3.000.000 di righe e risulta poco gestibile sia da QGIS che da altri software (excel, NotePad++): filtrare e pulire i dati → fare una RELAZIONE di Progetto con lo shapefile ISTAT ([QGIS](https://www.qgis.org/it/site/))
 2. Tabella degli attributi con molti campi: creare una tabella con solo due campi, tabella Melt → creare atlas con grafico ([QGIS](https://www.qgis.org/it/site/))
 
 ## Soluzione adottata
