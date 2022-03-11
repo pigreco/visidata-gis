@@ -74,8 +74,12 @@ Come pulire e filtrare un CSV di 3M di righe per uso GIS
 
 ## Risultati Live
 
-- numero massimo partecipanti: x
-- domande poste
+![](./imgs/screenshot_live.png)
+
+- [00:00:00](https://youtu.be/k1AOK3rz8PQ?t=24) INTRO **Andrea Borruso**
+- [00:15:27](https://youtu.be/k1AOK3rz8PQ?t=927) **Totò Fiandaca** PRIMO esempio
+- [00:049:00](https://youtu.be/k1AOK3rz8PQ?t=2941) **Toto Fiandaca** SECONDO esempio
+- [01:01:31](https://youtu.be/k1AOK3rz8PQ?t=3690) Conclusioni **Andrea Borruso**
 
 # Riferimenti utili
 
