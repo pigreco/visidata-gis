@@ -44,7 +44,7 @@ Come pulire e filtrare un CSV di 3M di righe per uso GIS
 
 ## Soluzione adottata
 
-![](./imgs/visidata.png)
+![](./imgs/visidatabn.png)
 
 [VisiData](https://www.visidata.org/) è un fantastico strumento open source per esplorare e manipolare dati. Mette insieme la chiarezza di un foglio di calcolo, con l'efficienza del terminale e la potenza di Python, in una utility leggera in grado di gestire milioni di righe con facilità.
 
