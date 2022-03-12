@@ -88,5 +88,6 @@ Come pulire e filtrare un CSV di 3M di righe per uso GIS
 - **ISTAT shapefile**: <https://www.istat.it/it/archivio/222527> 
 - **ISTAT matrice distanze**: <https://www.istat.it/it/archivio/157423>
 - **QGIS**: <https://www.qgis.org/it/site/>
+- **Dati e progetto secondo esempio** : <https://drive.google.com/file/d/1jcVYMcm7K_sRfwws791tO11bmwCqfxv5/view?usp=sharing>
 
 ↑ [Torna su](#visidata-gis) ↑
